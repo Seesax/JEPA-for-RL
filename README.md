@@ -1,4 +1,5 @@
 # JEPA-for-RL
+GROUP HE
 Hà Huy Hoàng - 21127610
 
 <img width="685" height="382" alt="image" src="https://github.com/user-attachments/assets/e9c92008-c351-4701-b7a3-a319e3b41316" />
