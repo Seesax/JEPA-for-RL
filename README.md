@@ -9,9 +9,7 @@ INPUT:
 - Action a_t (one-hot encoded)
 OUTPUT:
 -Latent Representation
-\[
-s_x = f_\theta(x)
-\]
+$s_x = f_\theta(x)$
 -Target Embedding
 \[
 s_y = f_{\theta'}(y)
