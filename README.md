@@ -14,6 +14,11 @@ INPUT:
 
 - Action a_t (one-hot encoded)
 
+LOSS FUNCTION:
+
+<img width="208" height="53" alt="image" src="https://github.com/user-attachments/assets/1aea12cb-7e8b-42db-b3c7-d33c43457bb9" />
+
+
 OUTPUT:
 
 -Latent Representation
